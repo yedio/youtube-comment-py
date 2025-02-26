@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.spec
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Excel files
+*.xlsx
+
+# OS specific
+.DS_Store 
