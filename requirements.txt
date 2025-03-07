@@ -1,4 +1,5 @@
 youtube-comment-downloader
 pandas
 openpyxl
-pytz 
+pytz
+PyQt5 
